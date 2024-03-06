@@ -7,7 +7,9 @@ about:
     - icon: instagram
       text: Ins
       href: https://www.instagram.com/melissa_yingzhi/
-    # (additional links excluded for brevity)
+    - icon: github
+      text: Github
+      href: https://github.com/melissazhangyz
 ---
 
-I am an undergraduate student specializing in Economics in University of Toronto. My degree also has a minor in statistics and a certificate in international affairs.
+I am an a senior student in University of Toronto, specializing in Economics with a minor in statistics and a certificate in international affair. I come from Shanghai, China and I speak Mandarin, English and a little German. Nice to meet you!

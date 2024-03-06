@@ -1,0 +1,13 @@
+---
+layout: page
+title: Biography
+excerpt: My current Bio
+execute:
+  freeze: true  # never re-render during project render
+engine: knitr 
+resources:
+  - "Bio.pdf"
+bio:
+  pdf: "Bio.pdf"
+---
+
