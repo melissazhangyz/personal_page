@@ -7,7 +7,7 @@ execute:
 engine: knitr 
 resources:
   - "Bio.pdf"
-Bio:
+bio:
   pdf: "Bio.pdf"
 ---
 
