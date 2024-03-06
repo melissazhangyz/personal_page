@@ -2,9 +2,4 @@
 title: "CV"
 ---
 
-This is my CV
-
-```{r}
-1 + 1
-```
-
+This is my Bio and [CV](https://github.com/melissazhangyz/personal_page/blob/master/cv.pdf) for your reference.
