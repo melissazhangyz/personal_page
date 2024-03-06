@@ -12,7 +12,6 @@ website:
         href: cv/index.qmd
       - text: Bio
         href: bio/index.qmd
-      - contact.qmd
 
 format:
   html:
