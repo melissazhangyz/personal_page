@@ -1,7 +1,5 @@
 ---
-title: "Welcome to my site"
+title: "Welcome!"
 ---
 
 I am an undergraduate student specializing in Economics in University of Toronto. My degree also has a minor in statistics and a certificate in international affairs.
-
-Please feel free to contact me at yingzhi.zhang\@mail.utoronto.ca
