@@ -1,5 +1,13 @@
 ---
 title: "Welcome!"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: instagram
+      text: Ins
+      href: https://www.instagram.com/melissa_yingzhi/
+    # (additional links excluded for brevity)
 ---
 
 I am an undergraduate student specializing in Economics in University of Toronto. My degree also has a minor in statistics and a certificate in international affairs.

@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to my site",
+    "title": "Welcome!",
     "section": "",
     "text": "I am an undergraduate student specializing in Economics in University of Toronto. My degree also has a minor in statistics and a certificate in international affairs."
   },
@@ -18,13 +18,13 @@
     "href": "CV.html",
     "title": "CV",
     "section": "",
-    "text": "This is my CV\n\n1 + 1\n\n[1] 2"
+    "text": "This is my Bio and CV for your reference."
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Please feel free to contact me through my email:\n\n1 + 1\n\n[1] 2"
+    "text": "Please feel free to contact me through my email:\nyingzhi.zhang@mail.utoronto.ca"
   }
 ]

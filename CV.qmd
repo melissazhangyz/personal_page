@@ -1,5 +1,7 @@
 ---
 title: "CV"
+cv:
+  pdf:"cv.pdf"
 ---
 
 This is my Bio and [CV](https://github.com/melissazhangyz/personal_page/blob/master/cv.pdf) for your reference.
