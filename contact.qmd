@@ -1,7 +1,0 @@
----
-title: "Contact"
----
-
-Please feel free to contact me through my email:
-
-[yingzhi.zhang\@mail.utoronto.ca](yingzhi.zhang@mail.utoronto.ca)
