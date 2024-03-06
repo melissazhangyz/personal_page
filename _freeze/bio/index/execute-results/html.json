@@ -1,0 +1,15 @@
+{
+  "hash": "1b653fb28c5c6e91069d00df8847ac40",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\nlayout: page\ntitle: Biography\nexcerpt: My current Bio\nexecute:\n  freeze: true  # never re-render during project render\nengine: knitr \nresources:\n  - \"Bio.pdf\"\nbio:\n  pdf: \"Bio.pdf\"\n---\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
