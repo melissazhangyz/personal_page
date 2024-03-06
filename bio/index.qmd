@@ -11,7 +11,6 @@ bio:
   pdf: "Bio.pdf"
 ---
 
-
 ```{css echo=FALSE}
 .embed-container {
     position: relative;
@@ -41,4 +40,3 @@ bio:
   <iframe src="`r rmarkdown::metadata$bio$pdf`#toolbar=0" style="border: 0.5px;width: 100%;"></iframe>
 </div>
 ```
-
